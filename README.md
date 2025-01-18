@@ -3,10 +3,8 @@
 ###
 
 <p align="left">Aspiring Software Engineer passionate about backend development with a strong foundation in<br>building scalable applications and a solid understanding of frontend technologies. Skilled in<br>problem-solving and software development, eager to contribute to innovative projects while<br>growing within a dynamic team environment. Dedicated to delivering efficient, high-quality<br>solutions to real-world challenges.</p>
-
+<hr>
 ###
-
-<br clear="both">
 
 <p align="left">Social Media</p>
 
@@ -32,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
+<hr>
 ###
 
 <p align="left">Skills</p>
@@ -74,7 +72,7 @@
 </div>
 
 ###
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheratef74&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheratef74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -84,8 +82,3 @@
 
 <p align="left"></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/maheratef74/maheratef74/output/snake.svg" alt="Snake animation" />
-
-###
