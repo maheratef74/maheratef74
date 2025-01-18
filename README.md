@@ -1,5 +1,5 @@
 <p align="left">Hi 👋 My name is Maher Atef</p>
-
+<hr>
 ###
 
 <p align="left">Aspiring Software Engineer passionate about backend development with a strong foundation in<br>building scalable applications and a solid understanding of frontend technologies. Skilled in<br>problem-solving and software development, eager to contribute to innovative projects while<br>growing within a dynamic team environment. Dedicated to delivering efficient, high-quality<br>solutions to real-world challenges.</p>
