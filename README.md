@@ -1,6 +1,6 @@
 <p align="left">Hi 👋 My name is Maher Atef</p>
 <hr>
-###
+
 
 <p align="left">Aspiring Software Engineer passionate about backend development with a strong foundation in<br>building scalable applications and a solid understanding of frontend technologies. Skilled in<br>problem-solving and software development, eager to contribute to innovative projects while<br>growing within a dynamic team environment. Dedicated to delivering efficient, high-quality<br>solutions to real-world challenges.</p>
 <hr>
@@ -8,7 +8,7 @@
 
 <p align="left">Social Media</p>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maher--atef/" target="_blank">
@@ -31,11 +31,10 @@
   </a>
 </div>
 <hr>
-###
+
 
 <p align="left">Skills</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -71,14 +70,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
-###
+
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheratef74&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheratef74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <p align="left"></p>
 
