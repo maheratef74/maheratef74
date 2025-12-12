@@ -1,4 +1,4 @@
-<p align="left">Hello! I'm <strong>Maher Atef</strong>, a <strong>Software Engineer</strong> dedicated to building scalable and robust solutions.</p>
+<p align="left">Hello!👋 I'm <strong>Maher Atef</strong>, a <strong>Software Engineer</strong> dedicated to building scalable and robust solutions.</p>
 
 <p align="left">My professional foundation is in <strong>.NET Backend Development</strong> (ASP.NET Core, C#, SQL Server), where I implement clean, maintainable architectures (Clean Architecture, CQRS, DDD).</p>
 
