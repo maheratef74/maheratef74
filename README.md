@@ -1,6 +1,8 @@
-<p align="left">Hi 👋 My name is Maher Atef</p>
+<p align="left">Hello! I'm <strong>Maher Atef</strong>, a <strong>Software Engineer</strong> dedicated to building scalable and robust solutions.</p>
 
-<p align="left">Aspiring Software Engineer passionate about backend development with a strong foundation in<br>building scalable applications and a solid understanding of frontend technologies. Skilled in<br>problem-solving and software development, eager to contribute to innovative projects while<br>growing within a dynamic team environment. Dedicated to delivering efficient, high-quality<br>solutions to real-world challenges.</p>
+<p align="left">My professional foundation is in <strong>.NET Backend Development</strong> (ASP.NET Core, C#, SQL Server), where I implement clean, maintainable architectures (Clean Architecture, CQRS, DDD).</p>
+
+<p align="left"><strong>Currently, I am a 9-Month Trainee at ITI (Web & UI Track)</strong>, intensely focusing on mastering <strong>frontend technologies</strong> and modern full-stack development. Eager to apply my strong algorithmic and problem-solving skills (Codeforces Pupil Rank) to innovative projects.</p>
 <hr>
 
 <p align="left">Social Media</p>
